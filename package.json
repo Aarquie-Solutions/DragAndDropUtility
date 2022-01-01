@@ -1,0 +1,10 @@
+{
+  "name": "com.aarquiesolutions.draganddroputility",
+  "displayName": "Drag And Drop Utility",
+  "version": "1.0.0",
+  "description": "Utility to drag and drop gameobjects",
+  "gitDependencies": {
+    "com.aarquiesolutions.inspectorattributes": "https://github.com/Aarquie-Solutions/InspectorAttributes.git",
+    "com.aarquiesolutions.componentfielddependencyinjector": "https://github.com/Aarquie-Solutions/ComponentFieldDependencyInjector.git"
+  }
+}

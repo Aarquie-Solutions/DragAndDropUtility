@@ -1,0 +1,17 @@
+{
+    "name": "aarquiesolutions.draganddroputility",
+    "rootNamespace": "AarquieSolutions.Utility",
+    "references": [
+        "GUID:7153d0a5e274746baabc23ef4c6f3d43",
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
